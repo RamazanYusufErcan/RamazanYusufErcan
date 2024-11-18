@@ -13,4 +13,9 @@
 <a href="https://linkedin.com/in/ramzan yusuf ercan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramzan yusuf ercan" height="30" width="40" /></a>
 <a href="https://instagram.com/_yusufercan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yusufercan_" height="30" width="40" /></a>
 </p>
+<div>
+
 ![snake gif](https://github.com/RamazanYusufErcan/RamazanYusufErcan/blob/output/github-snake-dark.svg)
+  
+</div>
+
