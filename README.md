@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   
 <h1 align="center">Hi 👋, I'm Ramazan Yusuf Ercan</h1>
 <h3 align="center">UI Designer & Mobile App Devoloper From Türkiye</h3>
