@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramazan Yusuf Ercan</h1>
-<h3 align="center">Mobile App Devoloper</h3>
+<h3 align="center">UI Designer & Mobile App Devoloper From Türkiye</h3>
 
 - 🔭 I’m currently working on [Alanda App](www.alanda.app)
 
