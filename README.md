@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramazanyusufercan&show_icons=true&locale=en&layout=compact" alt="ramazanyusufercan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramazanyusufercan&show_icons=true&locale=en" alt="ramazanyusufercan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazanyusufercan&" alt="ramazanyusufercan" /></p>
