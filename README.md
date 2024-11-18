@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramazan Yusuf Ercan</h1>
 <h3 align="center">UI Designer & Mobile App Devoloper From Türkiye</h3>
 
-- 🔭 I’m currently working on [Alanda App](www.alanda.app)
+<p align="center">- 🔭 I’m currently working on [Alanda App](www.alanda.app)</p>
 
-- 📫 How to reach me **yusuf.erc4n@gmail**
+<p align="center">- 📫 How to reach me **yusuf.erc4n@gmail**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
