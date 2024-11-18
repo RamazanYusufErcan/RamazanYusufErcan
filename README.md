@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramazan Yusuf Ercan</h1>
 <h3 align="center">UI Designer & Mobile App Devoloper From Türkiye</h3>
-<center> [![](https://visitcount.itsvg.in/api?id=RamazanYusufErcan&icon=0&color=5)](https://visitcount.itsvg.in) </center>
+[![](https://visitcount.itsvg.in/api?id=RamazanYusufErcan&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <p align="center">- 🔭 I’m currently working on [Alanda App](www.alanda.app)</p>
 
